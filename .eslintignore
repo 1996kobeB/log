@@ -1,0 +1,5 @@
+vue.config.js
+.eslintrc.js
+.gitignore
+.editorconfig
+/node_modules
